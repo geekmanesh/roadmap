@@ -9,7 +9,7 @@ Others encouraged me during difficult times.
 I am grateful to every one of them.
 
 - Jadi Mirmirani
-- Hamid
+- Hamid Sharif
 - Erfan Goodarzi
 - Zahra Rastgou
 - Dr.Jafarnejad Qomi
