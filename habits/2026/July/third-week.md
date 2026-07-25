@@ -1,6 +1,6 @@
 # Weekly Review
 
-Date: 18 / July / 2026 
+Date: 19 / July / 2026 
 
 ---
 
@@ -21,12 +21,12 @@ Date: 18 / July / 2026
 
 | Habit | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Weekly Total |
 |--------|-----|-----|-----|-----|-----|-----|-----|--------------|
-| Review Vocabulary | | | | | | | | |
-| FastAPI Course | | | | | | | | |
-| Google Tasks Clone API | | | | | | | | |
-| HamyarZaban | | | | | | | | |
-| Read English Book | | | | | | | | |
-| Workout | | | | | | | | |
+| Review Vocabulary | 0 | 0 | 0 | 0 | 0 | 12 | 0 | 12 |
+| FastAPI Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Google Tasks Clone API | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| HamyarZaban | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 30 |
+| Read English Book | 0 | 0 | 0 | 0 | 40 | 0 | 500 | 540 |
+| Workout | 0 | 0 | 0 | 0 | 0 | 0 | 35 | 35 |
 
 ---
 
@@ -34,26 +34,25 @@ Date: 18 / July / 2026
 
 | Day | Sleep (h) | Energy (1-10) | Focus (1-10) | Mood (1-10) | Notes |
 |-----|-----------|---------------|--------------|-------------|-------|
-| Sat | 6 | 4 | | | |
 | Sun | | | | | |
 | Mon | | | | | |
 | Tue | | | | | |
 | Wed | | | | | |
 | Thu | | | | | |
 | Fri | | | | | |
-
+| Sat | 7:20 | 10 | 6 | 2 | |
 ---
 
 ## Weekly Progress
 
 | Habit | Weekly Goal | Actual | Goal Reached |
 |--------|------------:|-------:|:------------:|
-| Review Vocabulary | 140 min | | |
-| FastAPI Course | 840 min | | |
-| Google Tasks Clone API | 1260 min | | |
-| HamyarZaban | 350 min | | |
-| Read English Book | 420 min | | |
-| Workout | 420 min | | |
+| Review Vocabulary | 140 min | 12 | No |
+| FastAPI Course | 840 min | 0 | No |
+| Google Tasks Clone API | 1260 min | 0 | No |
+| HamyarZaban | 350 min | 30 | No |
+| Read English Book | 420 min | 540 | Yes |
+| Workout | 420 min | 35 | No |
 
 Overall Completion: ______ %
 
@@ -63,124 +62,19 @@ Overall Completion: ______ %
 
 Completed This Week
 
--
-
--
-
--
+- Read Book
 
 Next Week Priorities
 
-1.
-
-2.
-
-3.
-
----
-
-## Wins
-
--
-
--
-
--
+1. FastAPI Course
 
 ---
 
 ## Problems
 
--
+- Consistency
 
--
-
--
+- Watching FastAPI Course
 
 ---
 
-## Root Cause Analysis
-
-What wasted most of my time?
-
--
-
-What helped me be productive?
-
--
-
-What should I stop doing?
-
--
-
-What should I continue doing?
-
--
-
----
-
-## Weekly Reflection
-
-What am I proud of?
-
--
-
-What did I learn?
-
--
-
-What challenged me the most?
-
--
-
-What will I do differently next week?
-
--
-
----
-
-## Habit Consistency
-
-Days with no zeroes:
-
-____ / 7
-
-Most Consistent Habit:
-
-____________________
-
-Weakest Habit:
-
-____________________
-
----
-
-## Weekly Score
-
-Productivity ............ ____ / 10
-
-Consistency ............. ____ / 10
-
-Focus ................... ____ / 10
-
-Energy .................. ____ / 10
-
-Learning ................ ____ / 10
-
-Health .................. ____ / 10
-
-Overall Week ............ ____ / 10
-
----
-
-## Main Goal For Next Week
-
-______________________________________________________
-
-______________________________________________________
-
----
-
-## Notes
-
-```
