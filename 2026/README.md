@@ -6,3 +6,7 @@
 - Git & Github
 - FastAPI
 - Linux
+- Becoming a company employee (Rineex)
+- TypeScript
+- NestJS
+- Javascript
