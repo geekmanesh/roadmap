@@ -38,11 +38,8 @@ This repository helps me:
 ## Current Interests
 
 - Backend Engineering
-- Python
-- FastAPI
 - Software Architecture
 - Linux
-- Git & GitHub
 - API Design
 
 ---
@@ -60,3 +57,4 @@ You can find them in [ACKNOWLEDGMENTS.md](./ACKNOWLEDGMENTS.md).
 This repository will continue to grow as I learn new technologies, improve my skills, and document the next chapters of my software engineering journey.
 
 > "The expert in anything was once a beginner."
+
